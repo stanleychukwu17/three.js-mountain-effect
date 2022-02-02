@@ -1,0 +1,12 @@
+body,h1,h2,h3,h4,h5,h6,pre,form,fieldset,input,p, blockquote {margin:0; padding:0;}
+a{text-decoration: none;}
+a:hover{text-decoration: underline;}
+img{border:0}
+
+body {
+	background: #ecf0f1 !important; position: relative; display: block;
+	background: #f5f6fa !important;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	min-width: 720px;
+}
